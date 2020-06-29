@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\New folder\c++\progect_gpa\Projectgpa\Projectgpa\main.cpp(10,23): warning C4018: '<': signed/unsigned mismatch
+D:\New folder\c++\progect_gpa\Projectgpa\Projectgpa\main.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+D:\New folder\c++\progect_gpa\Projectgpa\Projectgpa\main.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+D:\New folder\c++\progect_gpa\Projectgpa\Projectgpa\main.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+  Projectgpa.vcxproj -> D:\New folder\c++\progect_gpa\Projectgpa\Debug\Projectgpa.exe
